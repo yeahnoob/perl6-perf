@@ -1,6 +1,6 @@
 use v6;
 
-my $file=open 'wordpairs.txt';
+my $file=open "wordpairs.txt", :r;
 
 my %dict;
 my $line;
@@ -15,6 +15,7 @@ repeat {
     }
 } while !$file.eof;
 
-say "The pairs count of the key word \"her\" in wordpairs.txt is {%dict{"her"}.elems}";
+## Test
+#say "The pairs count of the key word \"her\" in wordpairs.txt is {%dict{"her"}.elems}";
 
 # vim: ft=perl6
