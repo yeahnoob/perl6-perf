@@ -16,6 +16,6 @@ repeat {
 } while !$file.eof;
 
 ## Test
-#say "The pairs count of the key word \"her\" in wordpairs.txt is {%dict{"her"}.elems}";
+say "The pairs count of the key word \"her\" in wordpairs.txt is {%dict{"her"}.elems}";
 
 # vim: ft=perl6
