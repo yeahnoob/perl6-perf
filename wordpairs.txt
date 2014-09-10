@@ -7670,8 +7670,8 @@ him and
 and all
 all quite
 quite in
-in vain;then
-vain;then the
+in vainthen
+vainthen the
 the history
 history of
 of your
@@ -16975,8 +16975,8 @@ them down
 down and
 and handed
 handed them
-them in;and
-in;and immediately
+them inand
+inand immediately
 immediately afterwards
 afterwards leaned
 leaned against
@@ -25637,8 +25637,8 @@ and young
 young lady
 lady so
 so thrown
-thrown together;with
-together;with the
+thrown togetherwith
+togetherwith the
 the exception
 exception of
 of that
@@ -85649,9 +85649,9 @@ of the
 the abbaye
 abbaye paris
 paris june
-june 21
-21 1792
-1792 monsieur
+june oo
+oo oooo
+oooo monsieur
 monsieur heretofore
 heretofore the
 the marquis
@@ -91590,11 +91590,7 @@ hair and
 and she
 she looked
 looked like
-like 
- 
- 
- 
- let
+like let
 let us
 us ride
 ride on
@@ -91611,11 +91607,7 @@ with the
 the people
 people all
 all awake
-awake 
- 
- 
- 
- he
+awake he
 he made
 made shoes
 shoes he
@@ -91624,11 +91616,7 @@ made shoes
 shoes he
 he made
 made shoes
-shoes 
- 
- 
- 
- five
+shoes five
 five paces
 paces by
 by four
@@ -93531,8 +93519,8 @@ was red
 red in
 in their
 their frenzied
-frenzied eyes;eyes
-eyes;eyes which
+frenzied eyeseyes
+eyeseyes which
 which any
 any unbrutalised
 unbrutalised beholder
@@ -98126,8 +98114,8 @@ thirst liberty
 liberty equality
 equality fraternity
 fraternity or
-or death;the
-death;the last
+or deaththe
+deaththe last
 last much
 much the
 the easiest
@@ -113961,8 +113949,8 @@ last month
 month of
 of the
 the year
-year 1767
-1767 i
+year oooo
+oooo i
 i write
 write it
 it at
@@ -114143,8 +114131,8 @@ the month
 month in
 in the
 the year
-year 1757
-1757 i
+year oooo
+oooo i
 i was
 was walking
 walking on
@@ -114643,8 +114631,7 @@ my paper
 paper in
 in its
 its hidingplace
-hidingplace 
- the
+hidingplace the
 the carriage
 carriage left
 left the
@@ -115316,8 +115303,7 @@ put it
 it on
 on the
 the table
-table 
- i
+table i
 i opened
 opened some
 some of
@@ -115634,8 +115620,7 @@ and took
 took up
 up a
 a light
-light 
- the
+light the
 the other
 other patient
 patient lay
@@ -117281,8 +117266,7 @@ i laid
 laid him
 him down
 down dead
-dead 
- when
+dead when
 when i
 i returned
 returned to
@@ -117753,8 +117737,7 @@ the brothers
 brothers intent
 intent upon
 upon me
-me 
- i
+me i
 i write
 write with
 with so
@@ -118265,8 +118248,7 @@ another word
 word on
 on either
 either side
-side 
- i
+side i
 i am
 am weary
 weary weary
@@ -118498,8 +118480,7 @@ who wished
 wished to
 to see
 see me
-me 
- i
+me i
 i am
 am growing
 growing more
@@ -118785,8 +118766,7 @@ i am
 am ignorant
 ignorant of
 of both
-both 
- these
+both these
 these scraps
 scraps of
 of paper
@@ -119358,8 +119338,8 @@ last night
 night of
 of the
 the year
-year 1767
-1767 in
+year oooo
+oooo in
 in my
 my unbearable
 unbearable agony
@@ -127789,8 +127769,7 @@ poor sister
 sister to
 to the
 the last
-last 
- the
+last the
 the same
 same shadows
 shadows that
@@ -135107,8 +135086,7 @@ water all
 all flashes
 flashes away
 away twentythree
-twentythree 
- they
+twentythree they
 they said
 said of
 of him
@@ -135606,8 +135584,7 @@ two cities
 cities by
 by charles
 charles dickens
-dickens 
- end
+dickens end
 end of
 of this
 this project
@@ -135618,9 +135595,7 @@ a tale
 tale of
 of two
 two cities
-cities 
- 
- this
+cities this
 this file
 file should
 should be
@@ -135628,8 +135603,7 @@ be named
 named 988txt
 988txt or
 or 988zip
-988zip 
- this
+988zip this
 this and
 and all
 all associated
@@ -135816,12 +135790,10 @@ trademark license
 license especially
 especially commercial
 commercial redistribution
-redistribution 
- start
+redistribution start
 start full
 full license
-license 
- the
+license the
 the full
 full project
 project gutenberg
@@ -135892,8 +135864,8 @@ or online
 online at
 at http:gutenbergorglicense
 http:gutenbergorglicense section
-section 1
-1 general
+section o
+o general
 general terms
 terms of
 of use
@@ -135903,8 +135875,8 @@ redistributing project
 project gutenbergtm
 gutenbergtm electronic
 electronic works
-works 1a
-1a by
+works oa
+oa by
 by reading
 reading or
 or using
@@ -136023,9 +135995,9 @@ as set
 set forth
 forth in
 in paragraph
-paragraph 1e8
-1e8 1b
-1b project
+paragraph oe8
+oe8 ob
+ob project
 project gutenberg
 gutenberg is
 is a
@@ -136086,8 +136058,8 @@ of this
 this agreement
 agreement see
 see paragraph
-paragraph 1c
-1c below
+paragraph oc
+oc below
 below there
 there are
 are a
@@ -136123,10 +136095,10 @@ gutenbergtm electronic
 electronic works
 works see
 see paragraph
-paragraph 1e
-1e below
-below 1c
-1c the
+paragraph oe
+oe below
+below oc
+oc the
 the project
 project gutenberg
 gutenberg literary
@@ -136294,8 +136266,8 @@ it without
 without charge
 charge with
 with others
-others 1d
-1d the
+others od
+od the
 the copyright
 copyright laws
 laws of
@@ -136386,8 +136358,8 @@ country outside
 outside the
 the united
 united states
-states 1e
-1e unless
+states oe
+oe unless
 unless you
 you have
 have removed
@@ -136396,8 +136368,8 @@ all references
 references to
 to project
 project gutenberg
-gutenberg 1e1
-1e1 the
+gutenberg oeo
+oeo the
 the following
 following sentence
 sentence with
@@ -136495,8 +136467,8 @@ ebook or
 or online
 online at
 at wwwgutenbergorg
-wwwgutenbergorg 1e2
-1e2 if
+wwwgutenbergorg oe2
+oe2 if
 if an
 an individual
 individual project
@@ -136575,10 +136547,10 @@ with the
 the requirements
 requirements of
 of paragraphs
-paragraphs 1e1
-1e1 through
-through 1e7
-1e7 or
+paragraphs oeo
+oeo through
+through oe7
+oe7 or
 or obtain
 obtain permission
 permission for
@@ -136597,11 +136569,11 @@ as set
 set forth
 forth in
 in paragraphs
-paragraphs 1e8
-1e8 or
-or 1e9
-1e9 1e3
-1e3 if
+paragraphs oe8
+oe8 or
+or oe9
+oe9 oe3
+oe3 if
 if an
 an individual
 individual project
@@ -136626,10 +136598,10 @@ must comply
 comply with
 with both
 both paragraphs
-paragraphs 1e1
-1e1 through
-through 1e7
-1e7 and
+paragraphs oe1
+oe1 through
+through oe7
+oe7 and
 and any
 any additional
 additional terms
@@ -136666,8 +136638,8 @@ the beginning
 beginning of
 of this
 this work
-work 1e4
-1e4 do
+work oe4
+oe4 do
 do not
 not unlink
 unlink or
@@ -136700,8 +136672,8 @@ work associated
 associated with
 with project
 project gutenbergtm
-gutenbergtm 1e5
-1e5 do
+gutenbergtm oe5
+oe5 do
 do not
 not copy
 copy display
@@ -136728,8 +136700,8 @@ sentence set
 set forth
 forth in
 in paragraph
-paragraph 1e1
-1e1 with
+paragraph oe1
+oe1 with
 with active
 active links
 links or
@@ -136744,8 +136716,8 @@ of the
 the project
 project gutenbergtm
 gutenbergtm license
-license 1e6
-1e6 you
+license oe6
+oe6 you
 you may
 may convert
 convert to
@@ -136865,9 +136837,9 @@ license as
 as specified
 specified in
 in paragraph
-paragraph 1e1
-1e1 1e7
-1e7 do
+paragraph oe1
+oe1 oe7
+oe7 do
 do not
 not charge
 charge a
@@ -136890,11 +136862,11 @@ unless you
 you comply
 comply with
 with paragraph
-paragraph 1e8
-1e8 or
-or 1e9
-1e9 1e8
-1e8 you
+paragraph oe8
+oe8 or
+or oe9
+oe9 oe8
+oe8 you
 you may
 may charge
 charge a
@@ -136915,8 +136887,7 @@ gutenbergtm electronic
 electronic works
 works provided
 provided that
-that 
- you
+that you
 you pay
 pay a
 a royalty
@@ -137036,8 +137007,7 @@ project gutenberg
 gutenberg literary
 literary archive
 archive foundation
-foundation 
- you
+foundation you
 you provide
 provide a
 a full
@@ -137111,15 +137081,14 @@ copies of
 of project
 project gutenbergtm
 gutenbergtm works
-works 
- you
+works you
 you provide
 provide in
 in accordance
 accordance with
 with paragraph
-paragraph 1f3
-1f3 a
+paragraph of3
+of3 a
 a full
 full refund
 refund of
@@ -137154,8 +137123,7 @@ of receipt
 receipt of
 of the
 the work
-work 
- you
+work you
 you comply
 comply with
 with all
@@ -137171,8 +137139,8 @@ distribution of
 of project
 project gutenbergtm
 gutenbergtm works
-works 1e9
-1e9 if
+works oe9
+oe9 if
 if you
 you wish
 wish to
@@ -137232,11 +137200,11 @@ as set
 set forth
 forth in
 in section
-section 3
-3 below
-below 1f
-1f 1f1
-1f1 project
+section o
+o below
+below of
+of of1
+of1 project
 project gutenberg
 gutenberg volunteers
 volunteers and
@@ -137324,14 +137292,13 @@ be read
 read by
 by your
 your equipment
-equipment 1f2
-1f2 limited
+equipment of2
+of2 limited
 limited warranty
 warranty disclaimer
 disclaimer of
 of damages
-damages 
- except
+damages except
 except for
 for the
 the right
@@ -137342,8 +137309,8 @@ or refund
 refund described
 described in
 in paragraph
-paragraph 1f3
-1f3 the
+paragraph of3
+of3 the
 the project
 project gutenberg
 gutenberg literary
@@ -137446,15 +137413,14 @@ the possibility
 possibility of
 of such
 such damage
-damage 1f3
-1f3 limited
+damage of3
+of3 limited
 limited right
 right of
 of replacement
 replacement or
 or refund
-refund 
- if
+refund if
 if you
 you discover
 discover a
@@ -137590,8 +137556,8 @@ opportunities to
 to fix
 fix the
 the problem
-problem 1f4
-1f4 except
+problem of4
+of4 except
 except for
 for the
 the limited
@@ -137604,8 +137570,8 @@ refund set
 set forth
 forth in
 in paragraph
-paragraph 1f3
-1f3 this
+paragraph of3
+of3 this
 this work
 work is
 is provided
@@ -137635,8 +137601,8 @@ or fitness
 fitness for
 for any
 any purpose
-purpose 1f5
-1f5 some
+purpose of5
+of5 some
 some states
 states do
 do not
@@ -137710,10 +137676,9 @@ not void
 void the
 the remaining
 remaining provisions
-provisions 1f6
-1f6 indemnity
-indemnity 
- you
+provisions of6
+of6 indemnity
+indemnity you
 you agree
 agree to
 to indemnify
@@ -138179,10 +138144,10 @@ outdated equipment
 equipment many
 many small
 small donations
-donations $1
-$1 to
-to $5000
-$5000 are
+donations 1
+1 to
+to 5000
+5000 are
 are particularly
 particularly important
 important to
