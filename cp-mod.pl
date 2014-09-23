@@ -20,8 +20,7 @@ repeat {
 my %dict;
 my $a;
 my $b;
-for lines open "wordpairs.txt" {
-    ($a, $b) = .words;
+for "wordpairs.txt".IO.words(:eager) -> $a,$b {
     push %dict{$a}, $b;
 }
 
