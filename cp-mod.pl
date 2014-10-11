@@ -18,9 +18,8 @@ repeat {
 =end original
 
 my %dict;
-my $a;
-my $b;
-for "wordpairs.txt".IO.words(:eager) -> $a,$b {
+my $contents = slurp;
+for $contents.words(:eager) -> $a,$b {
     push %dict{$a}, $b;
 }
 
