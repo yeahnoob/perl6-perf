@@ -18,7 +18,8 @@ repeat {
 =end original
 
 my %dict;
-my $contents = slurp;
+#my $io="{@*ARGS[0]}".IO;
+my $contents = "{@*ARGS[0]}".IO.slurp;
 for $contents.words(:eager) -> $a,$b {
     push %dict{$a}, $b;
 }
