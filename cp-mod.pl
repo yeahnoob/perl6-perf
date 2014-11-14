@@ -27,3 +27,4 @@ for $contents.words(:eager) -> $a,$b {
 ## Test
 say "The pairs count of the key word \"her\" in wordpairs.txt is {%dict{"her"}.elems}";
 
+# vim: ft=perl6
